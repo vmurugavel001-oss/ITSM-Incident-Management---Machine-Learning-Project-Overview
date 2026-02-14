@@ -1,0 +1,22 @@
+# Core Libraries
+numpy==1.26.4
+pandas==2.2.2
+
+# Data Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Machine Learning
+scikit-learn==1.4.2
+xgboost==2.0.3
+
+# Database Connectivity
+SQLAlchemy==2.0.30
+pymysql==1.1.0
+
+# Model Saving (Optional)
+joblib==1.4.2
+
+# Jupyter Notebook (if used)
+notebook==7.2.0
+ipykernel==6.29.4
